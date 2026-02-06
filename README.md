@@ -23,9 +23,9 @@ The purpose of this project is to practice Flutter fundamentals, UI design, and 
 ## 📸 App Screenshots
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/5e461661-632c-44ad-aec4-bbe1494e3b84" width="30%" />
-  <img src="https://github.com/user-attachments/assets/0f3d0b7b-44f7-4a88-8eae-a109bd6ae6e3" width="30%" />
-  <img src="https://github.com/user-attachments/assets/c15fcba6-de0a-4f7b-abde-bb760b5e22f1" width="30%" />
+  <img src="https://github.com/user-attachments/assets/05f73388-2928-4b5e-97fa-da88d8b58361" width="30%" />
+  <img src="https://github.com/user-attachments/assets/1c4e274c-5bc4-43d2-8dc3-df9339b23f63" width="30%" />
+  <img src="https://github.com/user-attachments/assets/45d8f95d-1577-48e7-9683-8a1d9d820458" width="30%" />
 </p>
 
 > 📌 Note: Create a folder named `screenshots` in your project root and place all app images inside it using the same names.
