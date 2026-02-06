@@ -4,8 +4,7 @@ class CalculatorHome extends StatefulWidget {
   const CalculatorHome({super.key});
 
   @override
-  // ignore: library_private_types_in_public_api
-  _CalculatorHomeState createState() => _CalculatorHomeState();
+  State<CalculatorHome> createState() => _CalculatorHomeState();
 }
 
 class _CalculatorHomeState extends State<CalculatorHome> {
